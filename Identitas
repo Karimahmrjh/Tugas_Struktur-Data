@@ -1,0 +1,70 @@
+package Praktikum_Karimah_marjuah;
+import java.util.Scanner;
+public class Tugas_PraktikumIdentitas_Mod2_Karimah {
+	
+	public static void main (String[]args){
+		
+	String No1 = "1.";	
+	String Nama1 = "Nama : Karimah Marjuah\n";
+	String JenisKelamin1 = "Jenis Kelamin : Perempuan\n";
+	String Usia1 = "Usia : 19 tahun\n";
+	String TinggiBadan1 = "Tinggi Badan : 156 cm\n";
+	String Alamat1 = "Alamat : Jl.Cepa\n";
+	String Hobi1 = "Hobi : Mendengar Musik\n";
+	
+	String Orang1 = No1+" "+Nama1+" "+JenisKelamin1+" "+Usia1+" "+TinggiBadan1+" "
+			+ ""+Alamat1+" "+Hobi1;
+	
+	String No2 = "2.";
+	String Nama2 = "Nama : Choi Hyunsuk\n";
+	String JenisKelamin2 = "Jenis Kelamin : Laki-Laki\n";
+	String Usia2 = "Usia : 21 tahun\n";
+	String TinggiBadan2 = "Tinggi Badan : 172 cm\n";
+	String Alamat2 = "Alamat : Seoul\n";
+	String Hobi2 = "Hobi : Dance\n";
+	
+	String Orang2 = No2+" "+Nama2+" "+JenisKelamin2+" "+Usia2+" "+TinggiBadan2+" "
+			+ ""+Alamat2+" "+Hobi2;
+	
+	String No3 = "3.";
+	String Nama3 = "Nama : Lee Ji Eun\n";
+	String JenisKelamin3 = "Jenis Kelamin : Perempuan\n";
+	String Usia3 = "Usia :  28 tahun\n";
+	String TinggiBadan3 = "Tinggi Badan : 162 cm\n";
+	String Alamat3 = "Alamat : Seoul\n";
+	String Hobi3 = "Hobi : Baca Buku dan Mendengar Musik\n";
+	
+	String Orang3 = No3+" "+Nama3+" "+JenisKelamin3+" "+Usia3+" "+TinggiBadan3+" "
+			+ ""+Alamat3+" "+Hobi3;
+	
+	String No4 = "4.";
+	String Nama4 = "Nama : Min Yoongi\n";
+	String JenisKelamin4 = "Jenis Kelamin : Laki-Laki\n";
+	String Usia4 = "Usia : 28 tahun\n";
+	String TinggiBadan4 = "Tinggi Badan : 174 cm\n";
+	String Alamat4 = "Alamat : Hannam-Dong\n";
+	String Hobi4 = "Hobi : Basket\n";
+	
+	String Orang4 = No4+" "+Nama4+" "+JenisKelamin4+" "+Usia4+" "+TinggiBadan4+" "
+			+ ""+Alamat4+" "+Hobi4;
+	
+	String No5 = "5.";
+	String Nama5 = "Nama : Wafiq Azizah\n";
+	String JenisKelamin5 = "Jenis Kelamin : Perempuan\n";
+	String Usia5 = "Usia : 11 tahun\n";
+	String TinggiBadan5 = "Tinggi Badan : 148 cm\n";
+	String Alamat5 = "Alamat : Jl.Cepa\n";
+	String Hobi5 = "Hobi : Menggambar\n";
+	
+	String Orang5 = No5+" "+Nama5+" "+JenisKelamin5+" "+Usia5+" "+TinggiBadan5+" "
+			+ ""+Alamat5+" "+Hobi5;
+	
+	System.out.println("Data Diri Pegawai\n");
+	System.out.println(Orang1);
+	System.out.println(Orang2);
+	System.out.println(Orang3);
+	System.out.println(Orang4);
+	System.out.println(Orang5);
+	
+	}
+}
